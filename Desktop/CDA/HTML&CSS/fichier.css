@@ -1,0 +1,23 @@
+body{
+    background-color:grey;
+}
+    
+.h1{
+    color:black;
+    opacity: 10;
+    margin: 30px;
+    line-height: 40px;
+    text-align: center;
+}
+.para1{
+    color:white;
+    margin: 30px;
+    border-width: 2px;
+    border-style: solid;
+    align-items: center;
+    height: 160px;
+    width: 600px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
